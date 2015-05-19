@@ -19,6 +19,8 @@
     <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1600.900" x="877" y="176" />
     <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1600.900" x="263" y="125" />
     <location key="IdeErrosDialog.0.0.1600.900" x="82" y="224" />
+    <location key="Vcs.Push.Dialog.0.0.1600.900" x="485" y="132" />
+    <location key="SettingsEditor.0.0.1600.900" x="285" y="82" />
     <size key="FileChooserDialogImpl.0.0.1600.900" width="460" height="537" />
     <size key="OptionsEditor.0.0.1600.900" width="1244" height="879" />
     <size key="#Plugins.0.0.1600.900" width="844" height="711" />
@@ -41,5 +43,6 @@
     <size key="GridCell.Tab.3.center.0.0.1600.900" width="1487" height="192" />
     <size key="GridCell.Tab.3.right.0.0.1600.900" width="1487" height="192" />
     <size key="GridCell.Tab.3.bottom.0.0.1600.900" width="1487" height="192" />
+    <size key="CommitChangelistDialog2.0.0.1600.900" width="721" height="603" />
   </component>
 </application>
